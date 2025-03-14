@@ -11,11 +11,6 @@ I'm a **Data Analyst & Project Manager** passionate about the **IT industry** an
 
 🚀 **Always Learning:** Currently diving deeper into **Python** and aiming to master more coding languages in the future.
 
-🎮 **Fun Fact:** When I'm not wrangling data, you can find me playing video games and leveling up both in-game and in real life.
-
----
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
-
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau and Looker Studio.
@@ -33,3 +28,5 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Soren
 
 ### 👋🏻 Connect with Me
 - [Linkedin](www.linkedin.com/in/soren-smith-8b6834280)
+
+🎮 **Fun Fact:** When I'm not wrangling data, you can find me playing video games and leveling up both in-game and in real life.
